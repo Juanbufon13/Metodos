@@ -1,0 +1,7 @@
+C:\Users\junio\OneDrive\Escritorio\proyecto 1\usoDeMetodos27-02-23\usoDeMetodos27-02-23\bin\Debug\usoDeMetodos27-02-23.exe.config
+C:\Users\junio\OneDrive\Escritorio\proyecto 1\usoDeMetodos27-02-23\usoDeMetodos27-02-23\bin\Debug\usoDeMetodos27-02-23.exe
+C:\Users\junio\OneDrive\Escritorio\proyecto 1\usoDeMetodos27-02-23\usoDeMetodos27-02-23\bin\Debug\usoDeMetodos27-02-23.pdb
+C:\Users\junio\OneDrive\Escritorio\proyecto 1\usoDeMetodos27-02-23\usoDeMetodos27-02-23\obj\Debug\usoDeMetodos27-02-23.csprojAssemblyReference.cache
+C:\Users\junio\OneDrive\Escritorio\proyecto 1\usoDeMetodos27-02-23\usoDeMetodos27-02-23\obj\Debug\usoDeMetodos27-02-23.csproj.CoreCompileInputs.cache
+C:\Users\junio\OneDrive\Escritorio\proyecto 1\usoDeMetodos27-02-23\usoDeMetodos27-02-23\obj\Debug\usoDeMetodos27-02-23.exe
+C:\Users\junio\OneDrive\Escritorio\proyecto 1\usoDeMetodos27-02-23\usoDeMetodos27-02-23\obj\Debug\usoDeMetodos27-02-23.pdb
